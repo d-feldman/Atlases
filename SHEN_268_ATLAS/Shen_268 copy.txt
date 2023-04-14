@@ -1,0 +1,268 @@
+OrbFrontal (11)
+OrbFrontal (11)
+OrbFrontal (11)
+OrbFrontal (11)
+AntPFC (10)
+AntPFC (10)
+AntPFC (10)
+AntPFC (10)
+AntPFC (10)
+dlPFC(dorsal) (9)
+dlPFC(dorsal) (9)
+FrontEyeFields (8)
+FrontEyeFields (8)
+FrontEyeFields (8)
+FrontEyeFields (8)
+ParsOrbitalis (47)
+ParsOrbitalis (47)
+ParsOrbitalis (47)
+dlPFC(lat) (46)
+Broca-Triang (45)
+Broca-Operc (44)
+Broca-Operc (44)
+PrimMotor (4)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PrimSensory (1)
+Insula (13)
+Insula (13)
+Insula (13)
+Insula (13)
+PrimSensory (1)
+PrimSensory (1)
+PrimSensory (1)
+VisMotor (7)
+VisMotor (7)
+VisMotor (7)
+VisMotor (7)
+SupramargGyr (40)
+SupramargGyr (40)
+SupramargGyr (40)
+AngGyrus (39)
+AngGyrus (39)
+AngGyrus (39)
+Temporalpole (38)
+Temporalpole (38)
+Temporalpole (38)
+MedTempGyrus (21)
+MedTempGyrus (21)
+InfTempGyrus (20)
+InfTempGyrus (20)
+InfTempGyrus (20)
+InfTempGyrus (20)
+InfTempGyrus (20)
+PrimAuditory (41)
+PrimAuditory (41)
+SupTempGyrus (22)
+SupTempGyrus (22)
+SupTempGyrus (22)
+Fusiform (37)
+Fusiform (37)
+Fusiform (37)
+Fusiform (37)
+Fusiform (37)
+Fusiform (37)
+VisualAssoc (19)
+VisualAssoc (19)
+VisualAssoc (19)
+VisualAssoc (19)
+SecVisual (18)
+SecVisual (18)
+SecVisual (18)
+SecVisual (18)
+SecVisual (18)
+SecVisual (18)
+PrimVisual (17)
+DorsalACC (32)
+VentAntCing (24)
+VentPostCing (23)
+VentPostCing (23)
+VentPostCing (23)
+VentPostCing (23)
+DorsalPCC (31)
+DorsalPCC (31)
+DorsalPCC (31)
+Amygdala
+Hippocampus
+Hippocampus
+Parahipp (36)
+Parahipp (36)
+Parahipp (36)
+SecVisual (18)
+Brain Stem
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+NA
+Caudate
+Caudate
+Caudate
+Putamen
+Putamen
+Thalamus
+Thalamus
+Thalamus
+Brain Stem
+Brain Stem
+Brain Stem
+Brain Stem
+Brain Stem
+OrbFrontal (11)
+OrbFrontal (11)
+OrbFrontal (11)
+OrbFrontal (11)
+AntPFC (10)
+AntPFC (10)
+AntPFC (10)
+AntPFC (10)
+AntPFC (10)
+AntPFC (10)
+AntPFC (10)
+dlPFC(dorsal) (9)
+dlPFC(dorsal) (9)
+dlPFC(dorsal) (9)
+FrontEyeFields (8)
+FrontEyeFields (8)
+FrontEyeFields (8)
+ParsOrbitalis (47)
+ParsOrbitalis (47)
+ParsOrbitalis (47)
+dlPFC(lat) (46)
+Broca-Triang (45)
+Broca-Operc (44)
+PreMot + SuppMot (6)
+PrimMotor (4)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PreMot + SuppMot (6)
+PrimSensory (1)
+Insula (13)
+Insula (13)
+Insula (13)
+PrimSensory (1)
+PrimSensory (1)
+PrimSensory (1)
+VisMotor (7)
+VisMotor (7)
+VisMotor (7)
+VisMotor (7)
+VisMotor (7)
+SupramargGyr (40)
+SupramargGyr (40)
+SupramargGyr (40)
+AngGyrus (39)
+AngGyrus (39)
+AngGyrus (39)
+Temporalpole (38)
+Temporalpole (38)
+Temporalpole (38)
+Temporalpole (38)
+Temporalpole (38)
+MedTempGyrus (21)
+MedTempGyrus (21)
+MedTempGyrus (21)
+MedTempGyrus (21)
+InfTempGyrus (20)
+InfTempGyrus (20)
+InfTempGyrus (20)
+SupTempGyrus (22)
+Fusiform (37)
+Fusiform (37)
+Fusiform (37)
+Fusiform (37)
+Parahipp (36)
+VisualAssoc (19)
+VisualAssoc (19)
+VisualAssoc (19)
+VisualAssoc (19)
+VisualAssoc (19)
+VisualAssoc (19)
+VisualAssoc (19)
+SecVisual (18)
+SecVisual (18)
+SecVisual (18)
+SecVisual (18)
+SecVisual (18)
+PrimVisual (17)
+PrimVisual (17)
+NA
+PreMot + SuppMot (6)
+DorsalACC (32)
+VentAntCing (24)
+VentAntCing (24)
+VentPostCing (23)
+VentPostCing (23)
+VentPostCing (23)
+DorsalPCC (31)
+DorsalPCC (31)
+AgrRetrolimb (30)
+Amygdala
+Hippocampus
+Hippocampus
+Hippocampus
+Hippocampus
+Parahipp (36)
+Parahipp (36)
+Parahipp (36)
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+Cerebellum
+NA
+Caudate
+Caudate
+Caudate
+Putamen
+Thalamus
+Thalamus
+Thalamus
+Brain Stem
+Brain Stem
+Brain Stem
+Brain Stem
